@@ -1,1 +1,8 @@
+name: "Sudarshan Rangarajan"
+description: "web cache of my experiments and experiences"
+#url: "http://localhost:4000"
+paginate: 10
+markdown: rdiscount
+permalink: pretty
+pygments: true
 timezone: America/Los_Angeles
